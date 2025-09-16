@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.2<br/>
-  <a href="https://Zephinax.ir/" target="_blank">Click Here To Show Demo [Zephinax.ir]</a>
+  <a href="https://zephinax.github.io/portfolio/" target="_blank">Click Here To Show Demo</a>
 </h2>
 <br/>
 <div align="center" style="display : flex; align-items: center; justify-content: center;"><img src="./demo/darkDemo.webp" alt="Dark Demo Image" width="45%" height="100%" style="vertical-align:middle; display: inline-block;">
@@ -16,9 +16,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/Zephinax/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/Zephinax/portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/Zephinax/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/Zephinax/portfolio/issues">Request Feature</a>
 </h3>
 
 ## How to use?
